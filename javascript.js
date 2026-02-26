@@ -12,6 +12,7 @@ function typeEffect() {
 
 window.onload = typeEffect;
 
+
 // Smooth Scroll
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener("click", function (e) {
